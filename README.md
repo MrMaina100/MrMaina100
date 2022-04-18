@@ -1,6 +1,4 @@
-- 👋 Hi, it's your boy Dericko
-- 👀 I’m interested in front-end development and a little of back-end 
-- 🌱 I’m currently learning PHP ( don't judge a nigga )
+- 
 
 - 📫 How to reach me mburumaina648@gmail.com
 
