@@ -1,5 +1,5 @@
-- 
-
+- 8 minute meetings
+- webdev
 - 📫 How to reach me mburumaina648@gmail.com
 
 <!---
